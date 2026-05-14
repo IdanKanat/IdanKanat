@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everything related to Data Science
 - 📫 How to reach me:
 - By Mail: idankanat@gmail.com
-- Link to my Linkedin Profile: linkedin.com/in/idankanat
+- Link to my Linkedin Profile: [linkedin.com/in/idankanat]
 
 <!---
 IdanKanat/IdanKanat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
