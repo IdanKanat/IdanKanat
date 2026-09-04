@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IdanKanat
 - 👀 I’m interested in Data Science, AI & Machine Learning
-- 🌱 I'm currently studying Data Science at TAU.
+- 🌱 I just graduated with a B.Sc. in Data Science from TAU.
 - 💞️ I’m looking to collaborate on everything related to Data Science
 - 📫 How to reach me:
 - By Mail: idankanat@gmail.com
